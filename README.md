@@ -4,12 +4,11 @@ This project demonstrates a Speech Recognition system using machine learning tec
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Dataset](#dataset)
-5. [Usage](#usage)
+3. [Dataset](#dataset)
+4. [How it Works](#How-it-Works)
+5. [Libraries Used](#Libraries-Used)
 6. [Project Structure](#project-structure)
-7. [Results](#results)
-8. [Contributors](#contributors)
+7. [Contributors](#contributors)
 
 
 ## **Overview**
