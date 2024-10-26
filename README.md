@@ -52,4 +52,4 @@ Speech-Recognition-Project/
 
 • Yahsika Hooda ([Github](https://github.com/hoodayashika))
 
-• Vanshika Gupta
+• Vanshika Kalra ([Github](https://github.com/kalravanshika))
