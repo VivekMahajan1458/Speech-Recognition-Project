@@ -41,6 +41,7 @@ The project processes audio data to recognize and classify speech by emotional t
 ## **Project Structure**
 
 Speech-Recognition-Project/
+
 ├── data/                     
 ├── Speech_Recognition.ipynb   
 ├── README.md                  
