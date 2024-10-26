@@ -49,5 +49,7 @@ Speech-Recognition-Project/
 
 ## **Contributors**
 • Vivek Mahajan ([GitHub](https://github.com/VivekMahajan1458))
+
 • Yahsika Hooda ([Github](https://github.com/hoodayashika))
+
 • Vanshika Gupta
