@@ -39,6 +39,7 @@ The project processes audio data to recognize and classify speech by emotional t
 • **Matplotlib & Seaborn**: For visualizing data insights.
 
 ## **Project Structure**
+
 Speech-Recognition-Project/
 ├── data/                     
 ├── Speech_Recognition.ipynb   
